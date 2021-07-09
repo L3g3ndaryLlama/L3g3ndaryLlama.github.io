@@ -1,0 +1,26 @@
+body{
+    background-color: navy;
+}
+
+
+
+
+h1{
+    font-size: 100px;
+    background-color: aqua;
+}
+#large{
+   font-size: 40px; 
+}
+
+div{
+    margin: 0px;
+    padding: 100px;
+    border-style: solid;
+    border-left-width: 900px;
+}
+
+
+
+
+
